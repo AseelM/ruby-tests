@@ -29,5 +29,5 @@ class FizzBuzz
   def multiple_of(n, x)
     (x % n) == 0
   end
-  
+
 end

@@ -1,7 +1,7 @@
 require_relative 'fizz-buzz'
 
 describe FizzBuzz do
-  
+
   it 'should replace multiples of 3 with Fizz' do
     fizz_buzz = FizzBuzz.new
     result = fizz_buzz.sequence
